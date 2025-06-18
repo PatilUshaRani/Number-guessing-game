@@ -1,0 +1,3 @@
+Requriments
+ Python 3.6 or higher
+ No external libraries required (uses Python's built-in `random` and `input`)
